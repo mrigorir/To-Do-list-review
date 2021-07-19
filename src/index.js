@@ -133,4 +133,3 @@ document.addEventListener('DOMContentLoaded', () => {
   loadList();
   Task.edit(tasks, list);
 });
-
